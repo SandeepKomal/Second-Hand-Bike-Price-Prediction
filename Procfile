@@ -1,2 +1,1 @@
-web:gunicorn app:app
-requirements.txt
+web :gunicorn app:app
