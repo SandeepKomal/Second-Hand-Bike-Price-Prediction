@@ -1054,11 +1054,29 @@
     color: #1abc9c !important;
   }
   </style>
+  <style>
+  .header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+</style>
 </head>
 <body>
 
 <!-- Navbar -->
 <nav class="navbar navbar-default">
+  <div class="header">
+  <img src="static/images/logo.jpg" alt="logo" />
+  <h1>Used Bikes Price Predictor</h1>
+</div>
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
