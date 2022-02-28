@@ -40,7 +40,7 @@ def predict():
 	# print(final_features)
 	# prediction = model.predict(final_features)
 	# print("Hello2")
-	return render_template('main.html',prediction_text="Your Bike Estimated Cost is : {}".format(output))
+	return render_template('main.html',prediction_text="Your Bike Estimated Cost is INR : {}".format(output))
 	
 
 if __name__ == "__main__":
