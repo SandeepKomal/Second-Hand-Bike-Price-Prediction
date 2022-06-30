@@ -5,3 +5,4 @@
 #second hand bike prediction donw with collecting the data drom web scrapping and deployed in heroku 
 olx doesnt have second hand bike prediction so we have created the second hand bike pprediction model for olx 
 sssscscscscscscscscscscscscscscscscsccscsccscscscsccscscscscscsccscscscscscscscscscscscscscscscscscscscscscscscscscsc
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
