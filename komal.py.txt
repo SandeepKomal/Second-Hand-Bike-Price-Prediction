@@ -1,2 +1,0 @@
-komal.py 
-just created for testing 
