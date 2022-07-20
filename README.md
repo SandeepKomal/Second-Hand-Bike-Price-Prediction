@@ -1,3 +1,4 @@
-# bikeobike
+Here is the final link of the app , if you want to know your bike price just click and enter all the details and know your bike price.
 
-#second hand bike prediction 
+ 
+https://bikeyo.herokuapp.com/
