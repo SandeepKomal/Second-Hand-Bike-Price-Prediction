@@ -1,4 +1,4 @@
-Machine Learning Project to know Estimate Price of your Second Hand bike
+Machine Learning Model to Predict the  Estimate Price of your Second Hand bike
 
 
 
