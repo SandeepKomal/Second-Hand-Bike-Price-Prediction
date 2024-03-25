@@ -24,7 +24,7 @@ def predict():
     return render_template('main.html', prediction_text="Your Bike Estimated Cost is INR: {}".format(output))
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=7000, debug=False)
+    app.run(host='0.0.0.0', port=8000, debug=False)
 
 
 
