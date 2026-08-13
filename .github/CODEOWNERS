@@ -1,0 +1,7 @@
+# Default owner for everything in the repo
+* @SandeepKomal
+
+# Specific files/folders
+/app.py @SandeepKomal @naveen-uppala
+*.env @SandeepKomal
+/templates/ @naveen-uppala
